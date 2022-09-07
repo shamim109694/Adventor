@@ -1,0 +1,61 @@
+.cover1{
+    background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.16), rgb(0, 0, 0)), url(images/cover/cover-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 600px;
+    padding-bottom: 307px;
+    width: 100%;
+
+}
+
+.cover2{
+    background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.16), rgb(0, 0, 0)), url(images/cover/cover-2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 600px;
+    padding-bottom: 307px;
+    width: 100%;
+}
+
+.cover3{
+    background-image:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.16), rgb(0, 0, 0)), url(images/cover/cover-3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 600px;
+    padding-bottom: 307px;
+    width: 100%;
+}
+
+.mx-3{
+    margin-top: 8vw;
+}
+
+.fs-5{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+body{
+    background-color:#eee;
+}
+
+.card{
+    
+    border:none;
+}
+
+.user-content p{
+    margin-top:5px;
+    font-size:12px;
+}
+
+
+.ratings i{
+    color:gold;
+}
